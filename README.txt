@@ -1,4 +1,4 @@
-Group project for DISCRETE MATHEMATICS FOR COMPUTER SCIENCE (CSC281) Course in King Saud University.
+Group project for "DISCRETE MATHEMATICS FOR COMPUTER SCIENCE" (CSC281) Course in King Saud University.
 
 Term Project (Fall '20) is the file Which explains the project.
 
